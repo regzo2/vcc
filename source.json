@@ -14,7 +14,6 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "regzo2/oscmooth"
-    ],
-    "packages":[]
+        "regzo2/OSCmooth"
+    ]
 }
