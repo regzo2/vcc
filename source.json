@@ -7,21 +7,14 @@
         "name":"Mitchell Taylor",
         "url":"github.com/regzo2"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"VCC Listings",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/regzo2/vcc",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
         "regzo2/oscmooth"
     ],
-    "packages":[
-        {
-            "name":"dev.azmidi.oscmooth",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip"
-            ]
-        }
-    ]
+    "packages":[]
 }
